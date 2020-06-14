@@ -1,6 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.49811a14.chunk.css",
+<<<<<<< HEAD
     "main.js": "/static/js/main.8590b0ac.chunk.js",
     "main.js.map": "/static/js/main.8590b0ac.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ee243ce0.js",
@@ -12,6 +13,19 @@
     "service-worker.js": "/service-worker.js",
     "static/css/main.49811a14.chunk.css.map": "/static/css/main.49811a14.chunk.css.map",
     "static/js/2.d5e05f6c.chunk.js.LICENSE.txt": "/static/js/2.d5e05f6c.chunk.js.LICENSE.txt",
+=======
+    "main.js": "/static/js/main.2c374baa.chunk.js",
+    "main.js.map": "/static/js/main.2c374baa.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ee243ce0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ee243ce0.js.map",
+    "static/js/2.4ee5359e.chunk.js": "/static/js/2.4ee5359e.chunk.js",
+    "static/js/2.4ee5359e.chunk.js.map": "/static/js/2.4ee5359e.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ad932b938b3fd87ea6e2bfc0b6969215.js": "/precache-manifest.ad932b938b3fd87ea6e2bfc0b6969215.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.49811a14.chunk.css.map": "/static/css/main.49811a14.chunk.css.map",
+    "static/js/2.4ee5359e.chunk.js.LICENSE.txt": "/static/js/2.4ee5359e.chunk.js.LICENSE.txt",
+>>>>>>> 09648fe263755edd720fdae4a4141228b3e74efc
     "static/media/DigitRecognitionCNNImageMain.png": "/static/media/DigitRecognitionCNNImageMain.d2a44995.png",
     "static/media/common.css": "/static/media/archia-regular-webfont.44b223ad.ttf",
     "static/media/android.png": "/static/media/android.df2e7026.png",
@@ -51,8 +65,14 @@
   },
   "entrypoints": [
     "static/js/runtime-main.ee243ce0.js",
+<<<<<<< HEAD
     "static/js/2.d5e05f6c.chunk.js",
     "static/css/main.49811a14.chunk.css",
     "static/js/main.8590b0ac.chunk.js"
+=======
+    "static/js/2.4ee5359e.chunk.js",
+    "static/css/main.49811a14.chunk.css",
+    "static/js/main.2c374baa.chunk.js"
+>>>>>>> 09648fe263755edd720fdae4a4141228b3e74efc
   ]
 }
